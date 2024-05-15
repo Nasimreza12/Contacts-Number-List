@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ContactsNumberList</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="age">Age</string>
+    <string name="add">Add</string>
+    <string name="contacts">Contacts</string>
+    <string name="nasim_reza">Nasim Reza</string>
+    <string name="age_23">Age: 23</string>
+    <string name="_0170000202">0170000202</string>
+    <string name="add_contact_number">Add Contact Number</string>
+</resources>
